@@ -10,5 +10,5 @@ I have currently written two papers.
 
 2. Paralel Programming with Functional Programming Languages (Turkish) as my license thesis
 
-Please notice that they are my first attempts to write a paper. There might be some mistakes and missing parts.  
+Please notice that these are my first attempts to write a paper. There might be some mistakes or missing parts.  
 All feedback is welcome, peer review rocks :)
