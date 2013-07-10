@@ -1,7 +1,7 @@
 Papers
 ======
 
-This repo contains my written works as an academic or otherwise
+This repo contains my written works as an academic paper or otherwise
 
 I have currently written two papers.
 
